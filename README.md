@@ -2,7 +2,13 @@
 
 # Metrolist Music
 
-### Material 3 Music Client for Android
+### Modern Music client for Android
+
+<br/>
+
+<a href="https://trendshift.io/repositories/20652" target="_blank">
+  <img src="https://trendshift.io/api/badge/repositories/20652" alt="MetrolistGroup/Metrolist | Trendshift" width="250" height="55" />
+</a>
 
 <br/>
 
@@ -21,13 +27,15 @@
 
 </div>
 
-> [!WARNING]
-> # MAINTENANCE MODE
-> Metrolist Music is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do not submit PRs for new features or major changes, as they will not be accepted.  
-> The app is **NOT** dead, please stay tuned for updates on our discord (found above).
+> [!NOTE]
+> # FAN VERSION & MODIFIED EDITION
+> Metrolist Music là phiên bản Fan Made được duy trì và phát triển sửa đổi. 
+> Dự án gốc được phát triển bởi [Mo Agamy](https://github.com/mostafaalagamy).
+> Nhà phát triển thứ hai phụ trách bản sửa đổi, tùy chỉnh liên kết kết nối là **Nguyen Minh Toi** (với sự hỗ trợ từ Google AI Studio).
+> Bạn có thể chọn tải bản chính thức từ nhà phát triển gốc hoặc bản mod/sửa đổi lại với một số tính năng khác biệt.
 
 > [!WARNING]
-> **Regional Restriction** - If the streaming servers are unavailable in your region, this app will not work without a **VPN or proxy** connecting to a supported region.
+> **Regional Restriction** - If music streaming is unavailable in your region, this app will not work without a **VPN or proxy** connecting to a supported region.
 
 ---
 
@@ -41,10 +49,10 @@
 
 #### Playback
 - Stream any song or video audio seamlessly
-- Background playback support
-- Download & cache tracks for offline listening
-- Skip silence automatically
-- Sleep timer integration
+- Background playback
+- Download & cache for offline use
+- Skip silence
+- Sleep timer
 
 </td>
     <td width="50%" valign="top">
@@ -52,7 +60,7 @@
 #### Audio
 - Audio normalization
 - Tempo & pitch control
-- Custom built-in Equalizer
+- Equalizer
 
 </td>
   </tr>
@@ -60,20 +68,20 @@
     <td width="50%" valign="top">
 
 #### Lyrics & Discovery
-- Live synced lyrics with line-by-line support
+- Live synced lyrics
 - AI-powered lyrics translation
-- Personalized quick picks & recommendations
+- Personalized quick picks
 - Search songs, albums, artists, videos, and playlists
 
 </td>
     <td width="50%" valign="top">
 
 #### Library & Account
-- Full local & online library management
-- Create and organize local playlists
-- Import custom playlists
-- Reorder songs in playlist or current queue
-- Custom connection settings & account sync
+- Full library management
+- Local playlists
+- Import playlists
+- Reorder songs in playlist or queue
+- Account login & custom connection server link
 - Sync songs, artists, albums, and playlists
 
 </td>
@@ -88,10 +96,10 @@
     <td width="50%" valign="top">
 
 #### Interface
-- Custom home screen widget
+- Home screen widget
 - Light / Dark / Black / Dynamic theme modes
 - Dynamic color + 19 preset color palettes
-- Built with modern Material 3 design
+- Built with Material 3
 
 </td>
   </tr>
@@ -105,26 +113,59 @@
 
 <h1><a id="download-now"></a>Download Now</h1>
 
-<h3>This project supports two release streams: the Official Release by the original developer and the Custom Modified Version with custom URL connections.</h3>
-
-<br/>
+<h2>Original & Modified Releases</h2>
 
 <table>
   <tr>
-    <th align="center">Official Developer Release</th>
-    <th align="center">Modified Fan Version</th>
+    <th align="center">Official Original Release (By Mo Agamy)</th>
+    <th align="center">Modified Fan Edition (By Nguyen Minh Toi)</th>
   </tr>
   <tr>
     <td align="center">
-      <b>Original Release by Mo Agamy</b><br/><br/>
       <a href="https://github.com/MetrolistGroup/Metrolist/releases">
-        <b>Download Official App</b>
+        <strong>Download Original Official Release</strong>
       </a>
     </td>
     <td align="center">
-      <b>Modified Build by Nguyen Minh Toi</b><br/><br/>
       <a href="https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases">
-        <b>Download Modded Version</b>
+        <strong>Download Mod/Customized Version</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h2>Nightly Build & Third-Party Platforms</h2>
+
+<table>
+  <tr>
+    <th align="center">Nightly Build (Google Cast)</th>
+    <th align="center">Obtainium</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip">
+        <strong>Download Nightly Build (.zip)</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MetrolistGroup/Metrolist/">
+        <strong>Get via Obtainium</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">IzzyOnDroid</th>
+    <th align="center">OpenAPK</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music">
+        <strong>Get via IzzyOnDroid</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.openapk.net/metrolist/com.metrolist.music/">
+        <strong>Get via OpenAPK</strong>
       </a>
     </td>
   </tr>
@@ -162,10 +203,9 @@
 
 <h1><a id="support-the-project"></a>Support the Project</h1>
 
-<h3>Metrolist Music is free and open-source. If it brings you joy, consider supporting its development!</h3>
+### Metrolist Music is free and open-source. If it brings you joy, consider supporting its development!
 
 #### Monero (XMR)
 
 ```text
 44XjSELSWcgJTZiCKzjpCQWyXhokrH9RqH3rpp35FkSKi57T25hniHWHQNhLeXyFn3DDYqufmfRB1iEtENerZpJc7xJCcqt
-
