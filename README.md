@@ -1,14 +1,19 @@
 <div align="center">
 
-# Metrolist Music (Modified Edition)
+# Metrolist Music
 
-### A Modern, Enhanced Music Client for Android
+### A Modern, Redesigned Music Client for Android
 
 <br/>
 
-[![Latest Release](https://img.shields.io/badge/Release-Beta_v1.0.0-red?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Beta Release](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Metrolist-Music?color=red&style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
 [![Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://dsc.gg/metrolist)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/metrolistapp)
 
 <br/>
 
@@ -17,16 +22,16 @@
 </div>
 
 > [!NOTE]
-> # MODIFIED EDITION
-> **Metrolist Music** is an independently customized version based on the open-source Metrolist base client.
-> - **Original Lead Developer**: [Mo Agamy](https://github.com/mostafaalagamy) ([Metrolist Repository](https://github.com/MetrolistGroup/Metrolist))
-> - **Modified Edition Developer**: Nguyen Minh Toi (Assisted by Google AI Studio)
+> # REVISED EDITION & FAN PROJECT
+> **Metrolist Music** is an customized, fan-made edition built upon the foundation of the original Metrolist client.
+> - **Original Lead Developer**: [Mo Agamy](https://github.com/mostafaalagamy)
+> - **Revised Edition Developer**: Nguyen Minh Toi (Assisted by Google AI Studio)
 >
-> This customized release features an improved user experience, refined playback workflows, and native custom connection server endpoint options while retaining complete compatibility with the open-source core.
+> Users can choose to install either the official original build or this custom edition, which incorporates enhanced interface elements and custom connection endpoint configuration while retaining full open-source integrity.
 
 > [!WARNING]
 > # MAINTENANCE MODE
-> Metrolist Music is operating in maintenance mode. Ongoing revisions prioritize system optimization, general bug fixes, and minor interface polish.
+> Metrolist Music is currently operating in maintenance mode. Active development focuses on critical bug fixes, stability patches, and core system maintenance.
 
 ---
 
@@ -34,15 +39,15 @@
 
 <h2><a id="features"></a>Features</h2>
 
-| Playback & Audio | Library & Account |
+| Playback & Audio Normalization | Library Management & Endpoints |
 | :--- | :--- |
-| • Smooth track streaming and video audio processing<br/>• Background playback with full offline caching<br/>• Silence skipping and customizable sleep timer<br/>• Dynamic audio normalization, tempo & pitch controls<br/>• Integrated equalizer configuration | • Comprehensive local and imported playlist tools<br/>• Native custom server link connection support<br/>• Synchronized cloud library for artists, albums & playlists<br/>• Live lyric synchronization with AI translation<br/>• Smart discovery and quick picks |
+| • Stream tracks and video audio seamlessly<br/>• Full background playback & offline caching<br/>• Skip silence & sleep timer controls<br/>• Audio normalization, pitch & tempo adjustments<br/>• Integrated system Equalizer support | • Comprehensive local & imported playlist management<br/>• Support for custom server connection endpoints<br/>• Direct sync for saved artists, albums, and playlists<br/>• Real-time synchronized lyrics & AI translations<br/>• Smart search & personalized recommendations |
 
 <br/>
 
-| Interface & Social |
+| Interface & Social Features |
 | :--- |
-| • **Refined modern user interface layout**<br/>• Real-time *Listen Together* session support<br/>• Customizable home screen widget support<br/>• Material 3 color system (Light, Dark, OLED Pitch Black) |
+| • **Fully redesigned, modern user interface**<br/>• Real-time *Listen Together* social streaming<br/>• Home screen widget integration<br/>• Dynamic Material 3 color themes (Light, Dark, OLED Black) |
 
 </div>
 
@@ -50,14 +55,14 @@
 
 <div align="center">
 
-<h2><a id="release-notes"></a>Release Notes (v1.0.0 Modified Beta)</h2>
+<h2><a id="release-notes"></a>Release Notes (v1.0.0 Beta Build)</h2>
 
 | Category | Details |
 | :--- | :--- |
-| **Build Identity** | Metrolist Music v1.0.0 (Modified Beta Version) |
-| **Interface Polish** | Customized layout enhancements for better visual clarity |
-| **Custom Endpoint** | Native configuration options for custom connection server URLs |
-| **Open Source** | 100% compliant with upstream core licensing under GPL-3.0 |
+| **Build Identity** | Metrolist Music v1.0.0 (Beta Edition) |
+| **Interface Redesign** | Completely revamped visual layouts and improved user workflows |
+| **Custom Endpoints** | Integrated support for custom connection URLs and server links |
+| **Source Integrity** | 100% open-source codebase compatibility preserved under GPL-3.0 |
 
 </div>
 
@@ -67,17 +72,17 @@
 
 <h2><a id="download-options"></a>Download Options</h2>
 
-<h3>Available Releases</h3>
+<h3>Official & Beta Builds</h3>
 
 | Build Type | Maintained By | Download Link |
 | :---: | :---: | :---: |
-| **Modified Beta Version (Beta APK)** | Nguyen Minh Toi | [**Download Beta Version**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
+| **Beta Release (Custom APK)** | Nguyen Minh Toi | [**Download Beta Build**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
 | **Original Official Version** | Mo Agamy (MetrolistGroup) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) |
-| **Nightly Build (Google Cast)** | Automated CI | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
+| **Nightly Build (Google Cast)** | CI Automated Build | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
 
 <h3>Alternative App Stores</h3>
 
-| Store Platform | Access Link |
+| Platform | Link |
 | :---: | :---: |
 | **Obtainium** | [Get via Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MetrolistGroup/Metrolist/) |
 | **IzzyOnDroid** | [Get via IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music) |
@@ -91,7 +96,7 @@
 
 <h2><a id="faq"></a>FAQ</h2>
 
-### For frequently asked questions regarding the core project base, check out the official [Metrolist FAQ Page](https://metrolist.cc/#faq).
+### For answers to common questions about the base project, please visit the official [Metrolist FAQ Page](https://metrolist.cc/#faq).
 
 </div>
 
@@ -103,7 +108,7 @@
 
 [![Translation status](https://img.shields.io/weblate/progress/metrolist?style=for-the-badge&labelColor=0d1117)](https://hosted.weblate.org/engage/metrolist/)
 
-### Help translate the foundational project via [Weblate](https://hosted.weblate.org/projects/Metrolist/).
+### Help translate Metrolist Music on [Weblate](https://hosted.weblate.org/projects/Metrolist/).
 
 </div>
 
@@ -113,13 +118,13 @@
 
 <h2><a id="acknowledgements"></a>Special Thanks & Acknowledgements</h2>
 
-Special thanks to **Mo Agamy** and the **MetrolistGroup** team for creating the underlying open-source application.
+This customized version exists thanks to the dedicated work done on the original open-source base.
 
-To explore or support the original upstream project directly, visit their official resources:
+Special thanks to **Mo Agamy** and the **MetrolistGroup** team for creating and maintaining the primary platform. To explore or support the original upstream client, please visit their official links:
 
-- **Official Repository**: [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
-- **Official Portal**: [metrolist.cc](https://metrolist.cc/#faq)
+- **Original Project Repository**: [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
+- **Official Documentation**: [metrolist.cc](https://metrolist.cc/#faq)
 
-*Notice: This modified edition functions independently and maintains no formal affiliation with the original Metrolist Group.*
+*Note: This revised edition is developed independently and is not directly affiliated with or endorsed by the primary Metrolist project team.*
 
 </div>
