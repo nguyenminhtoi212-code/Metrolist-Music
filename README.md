@@ -1,6 +1,6 @@
 <div align="center">
 
-# Metrolist Music (Mod Edition)
+# Metrolist Music
 
 ### A Modern, Redesigned Music Client for Android
 
@@ -12,15 +12,15 @@
 
 <br/>
 
-[**Download**](#download-options) · [**Features**](#features) · [**Release Notes**](#release-notes) · [**Translations**](#translations) · [**FAQ**](#faq) · [**Acknowlegements**](#acknowledgements)
+[**Download**](#download-options) · [**Features**](#features) · [**Release Notes**](#release-notes) · [**Translations**](#translations) · [**FAQ**](#faq) · [**Acknowledgements**](#acknowledgements)
 
 </div>
 
 > [!NOTE]
-> # MODIFIED & FAN-MADE EDITION
-> **Metrolist Music (Mod Edition)** is an independently modified version built upon the original Metrolist client. 
+> # MODIFIED EDITION
+> **Metrolist Music** is an independently modified version built upon the original Metrolist client. 
 > - **Original Project & Lead Developer**: [Mo Agamy](https://github.com/mostafaalagamy) ([Metrolist Repository](https://github.com/MetrolistGroup/Metrolist))
-> - **Mod Edition Developer**: Nguyen Minh Toi (Assisted by Google AI Studio)
+> - **Modified Edition Developer**: Nguyen Minh Toi (Assisted by Google AI Studio)
 >
 > This version introduces a fully revamped user interface, redesigned workflow elements, and native support for custom server connection URLs—all while keeping the core open-source functionality intact.
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<h2><a id="release-notes"></a>Release Notes (v1.0.0 Mod Edition)</h2>
+<h2><a id="release-notes"></a>Release Notes (v1.0.0)</h2>
 
 | Category | Details |
 | :--- | :--- |
@@ -71,7 +71,7 @@
 
 | Build Type | Maintained By | Download Link |
 | :---: | :---: | :---: |
-| **Modified Version (Mod APK)** | Nguyen Minh Toi | [**Download Mod Release**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
+| **Modified Version** | Nguyen Minh Toi | [**Download Release**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
 | **Original Official Version** | Mo Agamy (MetrolistGroup) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) |
 | **Nightly Build (Google Cast)** | CI Automated Build | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
 
