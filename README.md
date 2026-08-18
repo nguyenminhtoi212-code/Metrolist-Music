@@ -6,13 +6,13 @@
 
 <br/>
 
-[![Beta Release](https://img.shields.io/badge/Release-v0.0.0--Beta-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Release](https://img.shields.io/badge/Release-Official-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 [![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
 [![Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&color=17a2b8&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 
 <br/>
 
-[**Beta Downloads**](#download-options) · [**Features**](#features) · [**Release Overview**](#release-notes) · [**Translations**](#translations) · [**FAQ**](#faq) · [**Acknowledgements**](#acknowledgements)
+[**Downloads**](#download-options) · [**Features**](#features) · [**Release Overview**](#release-notes) · [**Translations**](#translations) · [**FAQ**](#faq) · [**Acknowledgements**](#acknowledgements)
 
 </div>
 
@@ -82,11 +82,11 @@
 
 <div align="center">
 
-<h2><a id="release-notes"></a>Release Overview (v0.0.0 Beta Edition)</h2>
+<h2><a id="release-notes"></a>Release Overview</h2>
 
 | Aspect | Summary Details |
 | :--- | :--- |
-| **Build Identifier** | Metrolist Music v0.0.0 (Beta Revised Build) |
+| **Build Identifier** | Metrolist Music (Revised Release Build) |
 | **Interface Refinements** | Reimagined visual architecture and improved interaction ergonomics |
 | **Connection Control** | Built-in functionality for personal connection configurations |
 | **Licensing Integrity** | 100% open-source under GNU General Public License v3.0 |
@@ -99,11 +99,11 @@
 
 <h2><a id="download-options"></a>Download Options</h2>
 
-<h3>Beta & Official Packages</h3>
+<h3>Packages & Releases</h3>
 
 | Build Profile | Maintained By | Package Link |
 | :---: | :---: | :---: |
-| **Revised Version (Beta APK)** | Nguyen Minh Toi | [**Download Beta Build**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
+| **Revised Version (APK Release)** | Nguyen Minh Toi | [**Download Release**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
 | **Original Official Build** | Mo Agamy (MetrolistGroup) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) |
 | **Automated Build (Google Cast)** | CI Automated Pipeline | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
 
