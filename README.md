@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Release](https://img.shields.io/badge/Release-Official-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Release](https://img.shields.io/badge/Release-v0.0.0-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 [![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
 [![Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&color=17a2b8&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 
@@ -22,7 +22,7 @@
 > - **Original Lead Developer**: [Mo Agamy](https://github.com/mostafaalagamy) ([Base Project Repository](https://github.com/MetrolistGroup/Metrolist))
 > - **Revised Client Developer**: Nguyen Minh Toi (Assisted by Google AI Studio)
 >
-> This revised release offers an enhanced interface design, tailored client workflows, and flexible local endpoint settings while preserving full open-source integrity.
+> This release offers an enhanced interface design, tailored client workflows, and flexible local endpoint settings while preserving full open-source integrity.
 
 > [!WARNING]
 > # MAINTENANCE STATUS
@@ -86,7 +86,8 @@
 
 | Aspect | Summary Details |
 | :--- | :--- |
-| **Build Identifier** | Metrolist Music (Revised Release Build) |
+| **Build Version** | v0.0.0 |
+| **Release Status** | Official Release Build |
 | **Interface Refinements** | Reimagined visual architecture and improved interaction ergonomics |
 | **Connection Control** | Built-in functionality for personal connection configurations |
 | **Licensing Integrity** | 100% open-source under GNU General Public License v3.0 |
@@ -99,11 +100,11 @@
 
 <h2><a id="download-options"></a>Download Options</h2>
 
-<h3>Packages & Releases</h3>
+<h3>Official Release Packages</h3>
 
 | Build Profile | Maintained By | Package Link |
 | :---: | :---: | :---: |
-| **Revised Version (APK Release)** | Nguyen Minh Toi | [**Download Release**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
+| **Revised Version** | Nguyen Minh Toi | [**Download Release Build**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
 | **Original Official Build** | Mo Agamy (MetrolistGroup) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) |
 | **Automated Build (Google Cast)** | CI Automated Pipeline | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
 
@@ -145,15 +146,58 @@
 
 <div align="center">
 
-<h2><a id="acknowledgements"></a>Acknowledgements & Credits</h2>
+<h2>Support Original Creator</h2>
 
-This revised release is made possible through the foundational code crafted by the original project creators.
+If you enjoy the project, feel free to support the original author:
 
-Sincere appreciation goes to **Mo Agamy** and the **MetrolistGroup** team for establishing the base application. To support or examine the upstream source, visit their official resources:
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mostafaalagamy)
+
+</div>
+
+---
+
+<div align="center">
+
+<h2><a id="acknowledgements"></a>Acknowledgements & Special Thanks</h2>
+
+Metrolist stands on the shoulders of incredible open-source work. Sincere appreciation goes to **Mo Agamy** and the **MetrolistGroup** team for establishing the base application.
 
 - **Original Code Base**: [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - **Official Documentation**: [metrolist.cc](https://metrolist.cc/#faq)
 
-*Notice: This project operates independently as an optimized build and retains no direct corporate affiliation with the primary Metrolist development team.*
+<br/>
+
+### Main Inspirations
+
+| Project | Authors |
+| :--- | :--- |
+| **InnerTune** | Zion Huang · Malopieds |
+| **OuterTune** | Davide Garberi · Michael Zh |
+
+<br/>
+
+### Libraries & Integrations
+
+| Project | Contribution |
+| :--- | :--- |
+| **Better Lyrics** | Time-synced lyrics with word-by-word highlighting & YouTube Music integration |
+| **metroserver** | Listen-together real-time backend |
+| **MusicRecognizer** | Music recognition feature & Shazam API integration |
+| **zemer-cipher** | YouTube cipher deobfuscation and PoToken generation |
+
+<br/>
+
+We also thank the entire open-source community for every library, tool, and API that powers this project.
+
+### Contributors
+This project wouldn't exist without these amazing people!
 
 </div>
+
+---
+
+## Disclaimer
+
+This project is not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, Metrolist Group LLC, or any of their affiliates and subsidiaries.
+
+All trademarks, service marks, and intellectual property rights referenced in this project belong to their respective owners.
