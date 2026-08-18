@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Beta Release](https://img.shields.io/badge/Release-v1.0.0--Beta-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Beta Release](https://img.shields.io/badge/Release-v0.0.0--Beta-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 [![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
 [![Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&color=17a2b8&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 
@@ -82,11 +82,11 @@
 
 <div align="center">
 
-<h2><a id="release-notes"></a>Release Overview (v1.0.0 Beta Edition)</h2>
+<h2><a id="release-notes"></a>Release Overview (v0.0.0 Beta Edition)</h2>
 
 | Aspect | Summary Details |
 | :--- | :--- |
-| **Build Identifier** | Metrolist Music v1.0.0 (Beta Revised Build) |
+| **Build Identifier** | Metrolist Music v0.0.0 (Beta Revised Build) |
 | **Interface Refinements** | Reimagined visual architecture and improved interaction ergonomics |
 | **Connection Control** | Built-in functionality for personal connection configurations |
 | **Licensing Integrity** | 100% open-source under GNU General Public License v3.0 |
