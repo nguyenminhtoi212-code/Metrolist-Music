@@ -6,11 +6,9 @@
 
 <br/>
 
-[![Release](https://img.shields.io/badge/Release-v0.0.0-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Latest Release](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&labelColor=0d1117&color=dc3545&label=Release)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases/latest)
 [![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
-[![Total Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&color=17a2b8&labelColor=0d1117&label=Total%20Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
-[![Latest Release Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/latest/total?style=for-the-badge&color=20c997&labelColor=0d1117&label=Latest%20Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&color=fd7e14&labelColor=0d1117&label=Releases)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&color=17a2b8&labelColor=0d1117&label=Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
 
 <br/>
 
@@ -88,8 +86,9 @@
 
 | Aspect | Summary Details |
 | :--- | :--- |
-| **Build Version** | v0.0.0 |
+| **Build Version** | [![Latest Release](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Metrolist-Music?style=flat-square&color=28a745&label=Latest)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases/latest) |
 | **Release Status** | Official Release Build |
+| **Total Downloads** | [![Downloads Tracker](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=flat-square&color=17a2b8&label=Total%20Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
 | **Interface Refinements** | Reimagined visual architecture and improved interaction ergonomics |
 | **Connection Control** | Built-in functionality for personal connection configurations |
 | **Licensing Integrity** | 100% open-source under GNU General Public License v3.0 |
@@ -104,11 +103,11 @@
 
 <h3>Official Release Packages</h3>
 
-| Build Profile | Maintained By | Download Metrics | Package Link |
-| :---: | :---: | :---: | :---: |
-| **Revised Version** | Nguyen Minh Toi | [![Total Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=flat-square&color=17a2b8)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) | [**Download Release Build**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
-| **Original Official Build** | Mo Agamy (MetrolistGroup) | [![Total Downloads](https://img.shields.io/github/downloads/MetrolistGroup/Metrolist/total?style=flat-square&color=17a2b8)](https://github.com/MetrolistGroup/Metrolist/releases) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) |
-| **Automated Build (Google Cast)** | CI Automated Pipeline | — | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
+| Build Profile | Maintained By | Download & Statistics Link |
+| :---: | :---: | :---: |
+| **Revised Version** | Nguyen Minh Toi | [**Download Release Build**](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) <br/> [![Revised Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=flat-square&label=Downloads&color=17a2b8)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases) |
+| **Original Official Build** | Mo Agamy (MetrolistGroup) | [**Download Official Release**](https://github.com/MetrolistGroup/Metrolist/releases) <br/> [![Official Downloads](https://img.shields.io/github/downloads/MetrolistGroup/Metrolist/total?style=flat-square&label=Upstream%20Downloads&color=6c757d)](https://github.com/MetrolistGroup/Metrolist/releases) |
+| **Automated Build (Google Cast)** | CI Automated Pipeline | [**Download Nightly Zip**](https://nightly.link/MetrolistGroup/Metrolist/workflows/build/main/app-with-Google-Cast.zip) |
 
 <br/>
 
@@ -193,8 +192,6 @@ We also thank the entire open-source community for every library, tool, and API 
 
 ### Contributors
 This project wouldn't exist without these amazing people!
-
-[![Contributors](https://img.shields.io/github/contributors/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&color=blue&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/graphs/contributors)
 
 </div>
 
