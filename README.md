@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Release](https://img.shields.io/badge/Release-v0.0.0-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
-[![Latest Release Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/latest/total?style=for-the-badge&color=28a745&labelColor=0d1117&label=Release%20Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
-[![Total Downloads](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&color=17a2b8&labelColor=0d1117&label=Total%20Downloads)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
-[![License](https://img.shields.io/badge/License-GPL--3.0-ffc107?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
+[![Latest Release](https://img.shields.io/github/v/release/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&label=Release&color=dc3545&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases/latest)
+[![Total Releases](https://img.shields.io/github/downloads/nguyenminhtoi212-code/Metrolist-Music/total?style=for-the-badge&label=Total%20Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![Releases Count](https://img.shields.io/github/releases/nguyenminhtoi212-code/Metrolist-Music?style=for-the-badge&label=Releases&color=6f42c1&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/releases)
+[![License](https://img.shields.io/badge/License-GPL--3.0-28a745?style=for-the-badge&labelColor=0d1117)](https://github.com/nguyenminhtoi212-code/Metrolist-Music/blob/main/LICENSE.txt)
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 <h2><a id="features"></a>Key Features</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
 
